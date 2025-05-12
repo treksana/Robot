@@ -1,4 +1,4 @@
-package log;
+package ru.oop.game.log;
 
 public final class Logger
 {

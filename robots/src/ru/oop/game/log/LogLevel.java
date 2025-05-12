@@ -1,4 +1,4 @@
-package log;
+package ru.oop.game.log;
 
 public enum LogLevel
 {

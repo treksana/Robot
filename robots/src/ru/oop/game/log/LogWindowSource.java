@@ -1,4 +1,4 @@
-package log;
+package ru.oop.game.log;
 
 import java.util.ArrayList;
 import java.util.Collections;
